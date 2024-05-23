@@ -5,15 +5,15 @@
   "repository": "https://github.com/seav1/scx",
   "website": "https://scalingo.com",
   "env": {
-    "NEZHA_SERVER": {
+    "N_S": {
       "description": "nz",
       "value": "x.x.x"
     },    
-    "NEZHA_KEY": {
+    "N_K": {
       "description": "nz key",
       "value": "xx"
     },
-    "ARGO_AUTH": {
+    "C_T": {
       "description": "ago key",
       "value": "xx"
     }    
