@@ -2,7 +2,7 @@
   "name": "sx",
   "description": "sx",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/seav1/scx",
+  "repository": "https://github.com/seav1/sca",
   "website": "https://scalingo.com",
   "env": {
     "N_S": {
