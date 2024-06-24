@@ -2,7 +2,7 @@
   "name": "nodejsx",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gx.js",
   "scripts": {
     "start": "node gx.js",
     "test": "echo \"Error: no test specified\" && exit 1"
