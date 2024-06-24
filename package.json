@@ -2,9 +2,9 @@
   "name": "nodejsx",
   "version": "1.0.0",
   "description": "",
-  "main": "gx.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node gx.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
